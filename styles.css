@@ -43,3 +43,13 @@ p{
     font-size: 1.3rem;
     color:rgb(0, 0, 0);
 }
+button{
+    position: absolute;
+    top: 90%;
+    border-radius: 10px;
+    padding: 5px;
+    border: none;
+    background-color: burlywood;
+    left: 50%;
+    transform: translate(-50%);
+}
